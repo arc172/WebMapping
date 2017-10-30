@@ -1,1 +1,2 @@
-# WebMapping
+# Lab 7
+
